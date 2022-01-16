@@ -1,0 +1,211 @@
+body{
+	font-family: 'Montserrat, sans-serif'; 
+	margin: 0;
+}
+
+#title{
+	background: #c4a5be;
+}
+
+
+.container-fluid{
+padding: 2% 15%;
+}
+.rotatedog{
+
+	/*transform: rotate(45deg);*/
+	width: 130%;
+	height: 110%;
+	position: relative;
+	right: 30%;
+
+}
+h1 { 
+ font-family: 'Montserrat, sans-serif';  
+ font-size: 2rem;  
+ line-height: 1; 
+font-weight: 900;
+font-style: italic;
+color: #564959;
+}
+
+.customers{
+	position: relative;
+	font-family: 'Montserrat, sans-serif';  
+ font-size: 2rem;  
+ line-height: 1; 
+font-weight: 900;
+font-style: italic;
+color: #564959;
+left: 160%;
+top: -20%;
+}
+h3{
+	font-family: Montserrat;
+	font-weight: 900;
+}
+h4{
+	font-family: Montserrat-bold;
+	/*font-size: 2rem;*/
+	/*line-height: 1;*/
+}
+p{
+	color: dimgrey;
+}
+.navbar{
+	padding:0  1rem;
+}
+
+/*buttton style*/
+.buttonjob{
+	margin: 10px;
+}
+.nav-link{
+	font-size: 1rem;
+
+}
+.nav-item{
+padding: 0 ;
+
+}
+#features{
+	padding: 7% 15%;
+	z-index: 1;
+	position: relative;
+}
+.work-exp{
+	padding: 1% ;
+	z-index: 1px;
+
+}
+/*.profficon{
+	width: 50px;
+}*/
+
+.icon{
+	color: #3aa4a6;
+	margin-bottom: 1rem;
+}
+.icon:hover{
+	color: #6042f5;
+}
+
+#testimonials{
+	background: #c4a5be;
+	text-align: center;
+	
+
+}
+.carousel-item{
+	padding: 7% 15%;
+}
+.testimonial-image{
+	width: 40%;
+	border-radius: 100%;
+	margin: 20px;
+}
+
+.testimonial-images{
+width: 20%;
+	border-radius: 100%;
+	margin: 20px;
+}
+
+#press{
+	/*background: #a3a2a3;
+	text-align: center;
+	padding-bottom: 3%;*/
+}
+.press-logo{
+	/*width: 20%;*/
+	/*margin: 20px 20px 50px;
+*/
+}
+
+#pricing{
+	text-align: center;
+	font-weight: 900;
+	text-decoration: bold;
+}
+.card-deck{
+	padding: 0 5%;
+}
+
+#cta{
+	background: #e1d3e3;
+	text-align: center;
+	padding-bottom: 7% 15% ;
+}
+.contact{
+	/*background: #5d8587;*/
+	text-align: center;
+	padding-bottom: 2% ;
+}
+.phones{
+	padding: 10px;
+}
+.phones:hover{
+	text-decoration: none;
+	text-underline: none;
+}
+#footer{
+	text-align: center;
+	padding: 5% 0;
+}
+
+.socials{
+	padding: 2%;
+	margin: 1rem;
+}
+input[type=text]:focus{
+	background-color:#84ed6f;
+	color:white ;
+	font-size: 20px;
+	box-sizing: 10px;
+	width: 50%;
+	border-radius: 100px;
+	resize: both;
+	/*box-sizing: border-box;*/
+}
+
+
+input[type=text]{
+	background: #e1d3e3;
+	box-sizing: 10px;
+	width: 50%;
+	/*border-radius: 100px;*/
+	resize: both;
+	border-style: none;
+}
+textarea{
+	background-color:#e1d3e3;
+	color:white ;
+	font-size: 20px;
+	box-sizing: border-box;
+	border: 5px solid;
+	border-color: skyblue;
+	border-radius: 30px;
+/*
+-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;*/
+
+    width: 50%;
+
+}
+.settle{
+	color: palegoldenrod;
+}
+.settle:hover{
+	color: blue;
+	border-radius: 100%;
+}
+/*
+form*/
+
+.shortens{
+	text-align: center;
+}
+
+
+
