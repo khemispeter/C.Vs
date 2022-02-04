@@ -28,7 +28,15 @@ font-weight: 900;
 font-style: italic;
 color: #564959;
 }
-
+.colorin{
+	background-color:#b642f5;
+}
+.coloring{
+	background-color:#f542d4;
+}
+.colorings{
+	background-color:#F55F97;
+}
 .customers{
 	position: relative;
 	font-family: 'Montserrat, sans-serif';  
