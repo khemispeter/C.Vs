@@ -28,6 +28,10 @@ font-weight: 900;
 font-style: italic;
 color: #564959;
 }
+
+#centering{
+	text-align:center;
+}
 .colorin{
 	
 	background-color:#9dedb1;
