@@ -32,6 +32,11 @@ color: #564959;
 #centering{
 	text-align:center;
 }
+
+.colorset{
+	text-align:center;
+	background-color:#FFFF00;
+}
 .colorin{
 	text-align:center;
 	background-color:#9dedb1;
@@ -40,6 +45,7 @@ color: #564959;
 	text-align:center;
 	background-color:#a4f2f5;
 }
+
 .colorings{
 	text-align:center;
 	background-color:#95b8f0;
